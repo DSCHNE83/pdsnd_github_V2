@@ -7,7 +7,9 @@
 **pdsnd_github_V2**
 
 ### Description
-Describe what your project is about and what it does
+This Project is about bikeshare. Bikeshare is a Python 
+project were you get information from differen location 
+about some tipical user behaviours
 
 ### Files used
 Include the files used
