@@ -12,7 +12,10 @@ project were you get information from differen location
 about some tipical user behaviours
 
 ### Files used
-Include the files used
++ Final version bikesh
++ chicago.csv
++ new_york_city.csv
++ washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
